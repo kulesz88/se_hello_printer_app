@@ -118,3 +118,12 @@ Materiały
 =========
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
+
+Badge:
+TravisCI
+.. image:: https://travis-ci.org/kulesz88/se_hello_printer_app.svg?branch=master
+    :target: https://travis-ci.org/kulesz88/se_hello_printer_app
+
+StatusCake
+.. image:: https://www.statuscake.com
+    :target: https://app.statuscake.com/button/index.php?Track=SQaxpvasPQ&Days=1&Design=1
