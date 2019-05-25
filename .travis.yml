@@ -10,7 +10,7 @@ script:
   - make test_xunit
   - make docker_build
   - make docker_run
-  - sleep 3, make test_api # TODO: 3 razy odpytywać API z sleep 0,5s
+  - sleep 3; make test_api # TODO: 3 razy odpytywać API z sleep 0,5s
 after_success:
   - make docker_push
 
